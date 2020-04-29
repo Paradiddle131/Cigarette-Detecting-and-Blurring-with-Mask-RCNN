@@ -47,7 +47,7 @@ unzip ./data-cigar-731.zip -d /path/to/extract
      width=840; height=600/>
    
 ```python
-!./gdown.pl 'https://drive.google.com/file/d/1nHKQMUbhNBAyn307K5jEJmX2PBK7rlfz/view?usp=sharing' 'cigarette.zip'
+./gdown.pl 'https://drive.google.com/file/d/1nHKQMUbhNBAyn307K5jEJmX2PBK7rlfz/view?usp=sharing' 'cigarette.zip'
 ```
 
 ## Data Preprocessing
